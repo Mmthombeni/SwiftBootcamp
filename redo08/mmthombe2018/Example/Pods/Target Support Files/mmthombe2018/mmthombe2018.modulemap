@@ -1,0 +1,6 @@
+framework module mmthombe2018 {
+  umbrella header "mmthombe2018-umbrella.h"
+
+  export *
+  module * { export * }
+}

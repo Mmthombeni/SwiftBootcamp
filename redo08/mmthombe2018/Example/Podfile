@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'mmthombe2018_Example' do
+  pod 'mmthombe2018', :path => '../'
+
+  target 'mmthombe2018_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase' , '~> 2.1.4'
+  end
+end

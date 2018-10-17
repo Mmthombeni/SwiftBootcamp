@@ -1,0 +1,2 @@
+
+var topicData: [Topic] = [Topic]()

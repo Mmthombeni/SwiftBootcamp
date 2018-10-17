@@ -1,0 +1,6 @@
+framework module Pods_mmthombe2018_Example {
+  umbrella header "Pods-mmthombe2018_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
